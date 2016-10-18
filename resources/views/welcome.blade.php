@@ -13,7 +13,7 @@
         <!-- Styles -->
  <!-- Bootstrap core CSS -->
     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
-      
+
       /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
